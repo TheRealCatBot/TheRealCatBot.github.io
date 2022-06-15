@@ -1,0 +1,46 @@
+body{
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+img {
+    width: 300px;
+    padding: 10px;
+}
+
+.navigation{
+    float: left;
+    padding: 15px;
+    width: 18%;
+    color: white;
+    font-size: 22px;
+    height: 1300px;
+}
+
+.main{
+    height: 1330px;
+}
+
+article{
+    color: white;
+    padding: auto;
+}
+
+section{
+    margin-bottom: 150px;
+    background-color: rgb(48, 28, 105);
+    color: black;
+}
+
+p{
+    background-color: rgb(147, 128, 184);
+    box-shadow: 2 2 2 10px;
+}
+
+nav {
+    float: left;
+    width: 82%;
+    background: rgb(131, 221, 248);
+    padding: 10px;
+}
