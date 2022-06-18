@@ -1,0 +1,53 @@
+p{
+    background-color: rgb(147, 128, 184);
+    box-shadow: 2 2 2 10px;
+}
+
+header {
+    background-color: rgb(62, 160, 240);
+    padding: 1px;
+    text-align: center;
+    color: white;
+  }
+
+.navigation{
+    float: left;
+    padding: 15px;
+    width: 18%;
+    color: white;
+    font-size: 22px;
+    height: 690px;
+}
+
+nav {
+    float: left;
+    width: 82%;
+    background: rgb(131, 221, 248);
+    padding: 10px;
+}
+
+.main{
+    height: 750px;
+}
+
+article{
+    color: white;
+    padding: auto;
+}
+
+section{
+    background-color: rgb(48, 28, 105);
+    color: black;
+}
+
+body{
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+img {
+    width: 300px;
+    max-height: 600px;
+    padding: 10px;
+}
