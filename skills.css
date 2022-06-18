@@ -5,29 +5,29 @@ p{
 
 header {
     background-color: rgb(62, 160, 240);
-    padding: 1px;
+    padding: 0.1vw;
     text-align: center;
     color: white;
   }
 
 .navigation{
     float: left;
-    padding: 15px;
+    padding: 1.2vw;
     width: 18%;
     color: white;
-    font-size: 22px;
-    height: 690px;
+    font-size: 1.7vw;
+    height: 55vw;
 }
 
 nav {
     float: left;
     width: 82%;
     background: rgb(131, 221, 248);
-    padding: 10px;
+    padding: 1vw;
 }
 
 .main{
-    height: 750px;
+    height: 60vw;
 }
 
 article{
@@ -47,7 +47,7 @@ body{
     color: white;
 }
 img {
-    width: 300px;
+    width: 24vw;
+    padding: 1vw;
     max-height: 600px;
-    padding: 10px;
 }

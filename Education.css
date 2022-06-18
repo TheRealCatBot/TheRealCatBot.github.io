@@ -12,13 +12,13 @@ article{
 }
 
 img {
-    width: 300px;
-    padding: 10px;
+    width: 24vw;
+    padding: 1vw;
 }
 
 h1{
-    padding: 10px;
-    font-size: 50px;
+    padding: 1vw;
+    font-size: 4.1vw;
 }
 
 section{
@@ -34,9 +34,9 @@ section{
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 1.3vw 1.5vw;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 1.5vw;
 }
   
 .topnav a:hover {

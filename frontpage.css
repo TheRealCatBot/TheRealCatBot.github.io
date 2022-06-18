@@ -8,23 +8,23 @@
   
   header {
     background-color: rgb(62, 160, 240);
-    padding: 1px;
+    padding: 0.1vw;
     text-align: center;
-    font-size: 70px;
+    font-size: 5vw;
     color: white;
   }
 
   .life {
-    margin: 20px;
-    margin-top: 35px;
-    font-size: 24px;
+    margin: 2vw;
+    margin-top: 3.5vw;
+    font-size: 1.9vw;
   }
   
   nav {
     float: left;
     width: 18%;
     background: rgb(131, 221, 248);
-    padding: 10px;
+    padding: 0.1wv;
   }
   
   nav ul {
@@ -34,8 +34,8 @@
   
   .column_footer {
     float: right;
-    padding: 5px;
-    margin-top: 50px;
+    padding: 0.5vw;
+    margin-top: 5vw;
   }
 
   body {
@@ -46,7 +46,7 @@
 
   article {
     float: left;
-    padding: 15px;
+    padding: 0.15vw;
     width: 82%;
     color: white;
   }
@@ -59,7 +59,7 @@
   
   footer {
     background-color: #777;
-    padding: 50px;
+    padding: 5vw;
     text-align: left;
     color: white;
   }
